@@ -1,7 +1,12 @@
 # Changelog
 
-## Purpose
-Record notable changes to the Second Brain setup over time.
+# v2 — Fresh Architecture Rebuild
 
-## Format
-- YYYY-MM-DD - Description of the change
+## Major Changes
+- Rebuilt system from scratch
+- Adopted project-centric architecture
+- Implemented Inbox-first workflow
+- Separated backend and LifeOS layers
+- Established independent knowledge system
+- Simplified archive handling through Status property
+- Created modular architecture documentation structure
